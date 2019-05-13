@@ -1,0 +1,20 @@
+{
+    "folders": [{
+        "file_exclude_patterns": [
+            "*.png",
+            "*.po",
+            "*.pot",
+            "*.svg",
+            "LICENSE.md"
+        ],
+        "folder_exclude_patterns": [
+            "*/icons"
+        ],
+        "path": ".."
+    }],
+    "settings": {
+        "python_fiximports": {
+            "autofix_on_save": true
+        }
+    }
+}
